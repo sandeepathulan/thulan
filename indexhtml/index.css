@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+.welcome {
+    text-align: center; text-decoration: underline;
+    background-color: dimgray;
+    color: goldenrod;
+}
+.paragraph {
+    font-style: italic;
+    background-color: dimgray;
+    text-shadow: 0cap;
+    color: azure;
+
+}
